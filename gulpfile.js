@@ -98,7 +98,7 @@ gulp.task('server', function (cd) {
       forms: false,
       scroll: false,
     },
-    https: true,
+    https: false,
     open: false,
     online: true,
     tunnel: false,
